@@ -4620,11 +4620,11 @@ ul.category-list li {
 
 ul.category-list li a {
     display: inline-block;
-    color: #626262;
+    color: #d36f40;
 }
 
 ul.category-list li a:hover {
-    color: #d36f40;
+    color: #fa1100;
     font-weight: bold;
 }
 
@@ -4643,11 +4643,11 @@ ul.category-list li a:after {
 }
 
 .dark-background ul.category-list li a {
-    color: #ffffff;
+    color: #d36f40;
 }
 
 .dark-background ul.category-list li a:hover {
-    color: #d36f40;
+    color: #fa1100;
 }
 
 
